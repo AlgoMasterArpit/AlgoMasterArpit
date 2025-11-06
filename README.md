@@ -42,3 +42,12 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [**MediConnect**](https://github.com/AlgoMasterArpit/Med_Loop) | Community-driven platform connecting users, pharmacies, and NGOs/hospitals to prevent medicine wastage, track expiry dates, enable safe donations, and show real-time medicine availability in emergencies. | HTML, TailwindCSS, JavaScript, Node.js, Express, MongoDB, Geolocation API, Cron Jobs |
+
+

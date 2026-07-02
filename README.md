@@ -19,7 +19,7 @@
 
 I'm an ECE undergrad at **NIT Hamirpur** (Rank 4/75) who builds backend systems that hold up under real load — not just in demos. My focus is **distributed systems, concurrency, and database performance**: the kind of work that shows up as "40% faster queries" or "99.9% uptime under 1,000+ concurrent users," not just a working prototype.
 
-Currently: **Technical Infrastructure Lead at SPEC**, where I run cloud deployment and performance diagnostics for national-scale hackathons.
+
 
 - 🔭 Building **Sarthi LegalAI** — an OCR + semantic search pipeline for legal document analysis
 - 🌱 Deepening my knowledge of distributed systems, RCA methodology, and query optimization
